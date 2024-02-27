@@ -1,0 +1,17 @@
+#hippo {
+  width: 500px;
+  border: 10px solid green;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  font-family: "Kdam Thmor Pro", sans-serif;
+  font-size: 24px;
+}
+
+main p {
+  width: 500px;
+  padding: 20px;
+  margin: 0;
+}
